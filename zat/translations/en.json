@@ -1,0 +1,8 @@
+{
+	"app": {
+		"name": "Application Name",
+		"short_description": "Short description below the title on the marketplace",
+		"long_description": "Long description of the app that will go in the _Description_ tab on the marketplace. This supports markdown for formatting. New lines must be specified by the \n delimiter",
+		"installation_instructions": "Install instructions that will go in the _How to setup_ tab on the marketplace. This supports markdown for formatting. New lines must be specified by the \n delimiter"
+	}
+}

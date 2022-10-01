@@ -1,0 +1,19 @@
+{
+  "name": "Application Name",
+  "author": {
+    "name": "Company Name",
+    "email": "your@email.com",
+    "url": "https://www.yourcompany.com"
+  },
+  "location": {
+    "chat": {
+    },
+    "support": {
+    },
+    "sell": {
+    }
+  },
+  "defaultLocale": "en",
+  "marketingOnly": true,
+  "private": false
+}
