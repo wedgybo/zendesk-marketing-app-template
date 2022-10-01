@@ -28,4 +28,4 @@ Follow the steps below to tweak the projects settings to get the desired app in 
 5. Create a **zip** archive of the `zat` folder. Use whatever tool your OS provides for making `.zip` files to do this.
 **NOTE** you need to make sure you are not just zipping up the zat folder. It must be the contents of it for Zendesk to accept it.
 
-6. Head to the Zendesk App
+6. Head to your Zendesk apps account and to the apps section. Upload the zip file created in step 5 and submit for approval. [See here for more details on app submission](https://developer.zendesk.com/documentation/apps/publish-your-app-or-theme/submit_your_app/)
